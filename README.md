@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/y0gyekye/My-Team-Page/main/screenshot.png)
+![screenshot](https://github.com/y0gyekye/My-Team-Page/screenshot.png)
 
 
 - Where can I see your demo? The demo is in a link above.
